@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>jsonClass</title>
+</head>
+<body>
+    <div> 
+        @using (Ajax.BeginForm("jsonData", new AjaxOptions()
+        {
+            HttpMethod="POST",
+            OnSuccess="Success",
+            OnFailure="Error"
+
+        }))
+            {
+                <input type="text"  id="td1" />
+                <input type="text"  id="td1" />
+                <input type="text" id="td1" />
+                <input type="submit" value="Submit" />
+            }
+    </div>
+    <div>
+        <script src="~/Scripts/jquery-3.7.1.js"></script>
+        <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    </div>
+    <script>
+        function Success(responce) {
+            console.log(responce);
+        }
+        function Error(error) {
+            console.error(error);
+        }
+    </script>
+</body>
+</html>

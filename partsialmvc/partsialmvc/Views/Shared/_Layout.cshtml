@@ -1,0 +1,35 @@
+﻿
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        h1 {
+            background: center; /* This line is already correct for centering the background image */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div style=" background-color :red">
+            <h1 style="background :center"> Header @RenderSection("header",required:false)  </h1>
+        </div>
+
+        @RenderBody()
+
+        <div style=" background-color :aquamarine">
+            <h1> footer  </h1>
+        </div>
+    </div>
+</body>
+</html>
+

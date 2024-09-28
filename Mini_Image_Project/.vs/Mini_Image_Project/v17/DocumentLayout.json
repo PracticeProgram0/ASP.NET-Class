@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|c:\\users\\sundaram\\source\\repos\\mini_image_project\\mini_image_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|solutionrelative:mini_image_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\mini_image_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|solutionrelative:mini_image_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|c:\\users\\sundaram\\source\\repos\\mini_image_project\\mini_image_project\\model11.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6F63F029-198C-4CB4-B574-92E9F9DF4C41}|Mini_Image_Project\\Mini_Image_Project.csproj|solutionrelative:mini_image_project\\model11.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model11.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Model11.edmx",
+              "RelativeDocumentMoniker": "Mini_Image_Project\\Model11.edmx",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Model11.edmx [Diagram1]",
+              "RelativeToolTip": "Mini_Image_Project\\Model11.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-28T05:24:43.263Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mini_Image_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mini_Image_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T04:23:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mini_Image_Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mini_Image_Project\\Mini_Image_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mini_Image_Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:21:07.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

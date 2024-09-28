@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\DEMOLayout_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F3D1A4-0EB5-4432-9752-2EB04DF5B8A3}|DEMOLayout_MVC\\DEMOLayout_MVC.csproj|c:\\users\\sundaram\\source\\repos\\demolayout_mvc\\demolayout_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F3D1A4-0EB5-4432-9752-2EB04DF5B8A3}|DEMOLayout_MVC\\DEMOLayout_MVC.csproj|solutionrelative:demolayout_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F3D1A4-0EB5-4432-9752-2EB04DF5B8A3}|DEMOLayout_MVC\\DEMOLayout_MVC.csproj|c:\\users\\sundaram\\source\\repos\\demolayout_mvc\\demolayout_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F3D1A4-0EB5-4432-9752-2EB04DF5B8A3}|DEMOLayout_MVC\\DEMOLayout_MVC.csproj|solutionrelative:demolayout_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\DEMOLayout_MVC\\DEMOLayout_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMOLayout_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\DEMOLayout_MVC\\DEMOLayout_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DEMOLayout_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T07:53:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\DEMOLayout_MVC\\DEMOLayout_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DEMOLayout_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\DEMOLayout_MVC\\DEMOLayout_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DEMOLayout_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:52:23.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

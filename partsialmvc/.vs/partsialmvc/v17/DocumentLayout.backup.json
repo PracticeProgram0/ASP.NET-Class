@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\views\\shared\\_partsial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\views\\shared\\_partsial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|c:\\users\\sundaram\\source\\repos\\partsialmvc\\partsialmvc\\views\\home\\contect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E74092F-7A24-4125-A4A6-28EC4F5EB509}|partsialmvc\\partsialmvc.csproj|solutionrelative:partsialmvc\\views\\home\\contect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contect.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\Contect.cshtml",
+              "RelativeDocumentMoniker": "partsialmvc\\Views\\Home\\Contect.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\Contect.cshtml",
+              "RelativeToolTip": "partsialmvc\\Views\\Home\\Contect.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T04:48:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "partsialmvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "partsialmvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T04:26:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Partsial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Shared\\_Partsial.cshtml",
+              "RelativeDocumentMoniker": "partsialmvc\\Views\\Shared\\_Partsial.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Shared\\_Partsial.cshtml",
+              "RelativeToolTip": "partsialmvc\\Views\\Shared\\_Partsial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T04:23:12.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "partsialmvc\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Models\\Login.cs",
+              "RelativeToolTip": "partsialmvc\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:18:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "partsialmvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "partsialmvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T04:17:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "partsialmvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\partsialmvc\\partsialmvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "partsialmvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:17:07.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

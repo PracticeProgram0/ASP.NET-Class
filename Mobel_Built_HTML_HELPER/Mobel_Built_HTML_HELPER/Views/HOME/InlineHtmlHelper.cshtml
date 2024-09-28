@@ -1,0 +1,55 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InlineHtmlHelper</title>
+</head>
+<body>
+    <div>
+
+        @helper Heading(string name)
+
+        {
+
+            <h1> Hello , @name</h1>
+        }
+
+
+        @helper Image(string src, string alt)
+        {
+            <img src="@src" alt="@alt" height="300" width="500" />
+        }
+
+        @helper PrintList(List<string> listItems)
+        {
+            foreach (var item in listItems)
+            {
+                <li> @item</li>
+            }
+        }
+
+    </div>
+    <div>
+        @Heading("Btps")
+
+        @{ 
+            List<string> list = new List<string>()
+            {
+                "ashu","sundram","ajay"
+            };
+        }
+
+    </div>
+     @PrintList(list)
+
+    <div>
+        @Image("https://cdn.pixabay.com/photo/2022/09/27/19/46/ai-generated-7483596_960_720.jpg"," Image ")
+    </div>
+</body>
+</html>

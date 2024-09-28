@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Layout_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD758B4-9651-4261-B851-C328C6D1FC9E}|Layout_mvc\\Layout_mvc.csproj|c:\\users\\sundaram\\source\\repos\\layout_mvc\\layout_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD758B4-9651-4261-B851-C328C6D1FC9E}|Layout_mvc\\Layout_mvc.csproj|solutionrelative:layout_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Layout_mvc\\Layout_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Layout_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Layout_mvc\\Layout_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Layout_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:48:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

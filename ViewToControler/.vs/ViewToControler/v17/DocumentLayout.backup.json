@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\",
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|c:\\users\\sundaram\\onedrive\\desktop\\viewtocontroler\\viewtocontroler\\viewtocontroler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\viewtocontroler\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:viewtocontroler\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|c:\\users\\sundaram\\source\\repos\\viewtocontroler\\viewtocontroler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:viewtocontroler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:ViewToControler\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:ViewToControler\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewToControler\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ViewToControler\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T04:13:50.511Z",
               "IsPinned": true,
@@ -40,27 +36,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ViewToControler\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ViewToControler\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T05:50:45.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
               "RelativeDocumentMoniker": "ViewToControler\\Views\\Home\\Registration.cshtml",
-              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
               "RelativeToolTip": "ViewToControler\\Views\\Home\\Registration.cshtml",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T06:19:17.981Z"
+              "WhenOpened": "2024-09-13T06:19:17.981Z",
+              "EditorCaption": ""
             }
           ]
         }

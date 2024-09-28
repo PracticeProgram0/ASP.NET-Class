@@ -1,0 +1,7 @@
+C:\Users\Sundaram\source\repos\interview_test\interview_test\bin\Debug\interview_test.exe.config
+C:\Users\Sundaram\source\repos\interview_test\interview_test\bin\Debug\interview_test.exe
+C:\Users\Sundaram\source\repos\interview_test\interview_test\bin\Debug\interview_test.pdb
+C:\Users\Sundaram\source\repos\interview_test\interview_test\obj\Debug\interview_test.csproj.AssemblyReference.cache
+C:\Users\Sundaram\source\repos\interview_test\interview_test\obj\Debug\interview_test.csproj.CoreCompileInputs.cache
+C:\Users\Sundaram\source\repos\interview_test\interview_test\obj\Debug\interview_test.exe
+C:\Users\Sundaram\source\repos\interview_test\interview_test\obj\Debug\interview_test.pdb

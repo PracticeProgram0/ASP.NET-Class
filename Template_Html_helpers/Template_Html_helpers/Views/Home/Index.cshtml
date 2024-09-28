@@ -1,0 +1,38 @@
+﻿@model Template_Html_helpers.Models.Employee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1> This is index page....</h1>
+
+        <h1> </h1>
+
+
+
+
+
+
+        <h1>
+            @Html.DisplayName("Name")
+            <br />
+            <br />
+            @Html.DisplayText("Name")
+            <br />
+            <br />
+            @Html.DisplayTextFor(x => x.DateofBirth)
+            <br />
+            <br />
+            @Html.Display("name")
+            <br />
+            <br />
+            @Html.DisplayFor(x => x.Email)
+
+</div>
+</body>
+</html>

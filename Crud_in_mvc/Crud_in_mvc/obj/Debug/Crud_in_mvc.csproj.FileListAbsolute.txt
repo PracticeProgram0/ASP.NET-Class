@@ -1,0 +1,2 @@
+C:\Users\Sundaram\source\repos\Crud_in_mvc\Crud_in_mvc\obj\Debug\Crud_in_mvc.csproj.AssemblyReference.cache
+C:\Users\Sundaram\source\repos\Crud_in_mvc\Crud_in_mvc\obj\Debug\Crud_in_mvc.csproj.CoreCompileInputs.cache

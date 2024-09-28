@@ -3,52 +3,145 @@
   "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\models\\empoyeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\models\\empoyeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|c:\\users\\sundaram\\source\\repos\\crud_youtube\\crud_youtube\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|c:\\users\\sundaram\\source\\repos\\crud_youtube\\crud_youtube\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\crud_youtube\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "crud.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx.cs",
-              "RelativeDocumentMoniker": "Crud_youtube\\crud.aspx.cs",
-              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx.cs",
-              "RelativeToolTip": "Crud_youtube\\crud.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T04:53:58.188Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Crud_youtube\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Crud_youtube\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:26:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud_youtube\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Crud_youtube\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T07:16:02.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud_youtube\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Crud_youtube\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:37:48.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "crud.aspx",
-              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx",
-              "RelativeDocumentMoniker": "Crud_youtube\\crud.aspx",
-              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx",
-              "RelativeToolTip": "Crud_youtube\\crud.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-31T04:33:58.448Z",
+              "Title": "EmpoyeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Models\\EmpoyeeDBContext.cs",
+              "RelativeDocumentMoniker": "Crud_youtube\\Models\\EmpoyeeDBContext.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Models\\EmpoyeeDBContext.cs",
+              "RelativeToolTip": "Crud_youtube\\Models\\EmpoyeeDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwF0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:21:29.798Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud_youtube\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Crud_youtube\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T13:14:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud_youtube\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud_youtube\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:09:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud_youtube\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Models\\Employee.cs",
+              "RelativeToolTip": "Crud_youtube\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:15:30.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Web.config",
+              "RelativeDocumentMoniker": "Crud_youtube\\Web.config",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Crud_youtube\\Crud_youtube\\Web.config",
+              "RelativeToolTip": "Crud_youtube\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T16:07:51.78Z",
+              "EditorCaption": ""
             }
           ]
         }

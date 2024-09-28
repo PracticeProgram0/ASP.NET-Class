@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net.NetworkInformation;
 using System.Web;
 using System.Web.Mvc;
+using ViewToControler.databse;
 using ViewToControler.Models;
 
 namespace ViewToControler.Controllers
@@ -26,37 +27,34 @@ namespace ViewToControler.Controllers
         [HttpPost]
         public ActionResult RegistrationByModel( Registration data)
         {
-            string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            using(var context = new MvcEntities())
             {
-                conn.Open();
+                var newdata = new Registration_MVC
+                {
+                    FIRSTNAME = data.Firstname,
+                    LASTNAME = data.Lastname,
+                    EMAIL = data.Email,
+                    ADDRESS = data.Address,
+                    PHONE = data.Phone,
+                    PASSWORD = data.Password,
+                    STATE = data.State,
+                    CITY = data.City,
+                    ZIP = data.Zip
+
+
+                };
+
+                context.Registration_MVC.Add(newdata);
+                var result = context.SaveChanges();
+
             }
 
-
-
-
-
-            Registration rag = new Registration()
-            {
-                Firstname = data.Firstname,
-               Lastname= data.Lastname,
-               Email=data.Email,
-               Phone=data.Phone,
-               Address=data.Address,
-               City=data.City,
-               State=data.State,
-               Zip=data.Zip,
-               Password=data.Password,
-               ConfirmPassword=data.ConfirmPassword
-            };
-
-            
-
-
-            return View(rag); 
+            return View(); 
           
         }
+
+
+
         [HttpPost]
         public ActionResult Login(string username, string password)
         {

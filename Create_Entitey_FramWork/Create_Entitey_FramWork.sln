@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_Entitey_FramWork", "Create_Entitey_FramWork\Create_Entitey_FramWork.csproj", "{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BE195E-FEA2-47B2-B154-7A2156E09C0F}
+	EndGlobalSection
+EndGlobal

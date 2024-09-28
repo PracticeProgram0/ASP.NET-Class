@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\mvc_ajax_json\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|solutionrelative:mvc_ajax_json\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|c:\\users\\sundaram\\source\\repos\\mvc_ajax_json\\mvc_ajax_json\\views\\home\\jsonclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|solutionrelative:mvc_ajax_json\\views\\home\\jsonclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|c:\\users\\sundaram\\source\\repos\\mvc_ajax_json\\mvc_ajax_json\\scripts\\myjsfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|solutionrelative:mvc_ajax_json\\scripts\\myjsfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\mvc_ajax_json\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFF2383-D183-4823-91DC-5A39B406D8C4}|MVC_Ajax_JSON\\MVC_Ajax_JSON.csproj|solutionrelative:mvc_ajax_json\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsonClass.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Views\\Home\\jsonClass.cshtml",
+              "RelativeDocumentMoniker": "MVC_Ajax_JSON\\Views\\Home\\jsonClass.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Views\\Home\\jsonClass.cshtml",
+              "RelativeToolTip": "MVC_Ajax_JSON\\Views\\Home\\jsonClass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T07:07:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyJSfile.js",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Scripts\\MyJSfile.js",
+              "RelativeDocumentMoniker": "MVC_Ajax_JSON\\Scripts\\MyJSfile.js",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Scripts\\MyJSfile.js",
+              "RelativeToolTip": "MVC_Ajax_JSON\\Scripts\\MyJSfile.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T04:26:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Ajax_JSON\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Ajax_JSON\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T04:20:51.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Ajax_JSON\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\MVC_Ajax_JSON\\MVC_Ajax_JSON\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Ajax_JSON\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:13:44.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index","Home",FormMethod.Post))
+        {
+            <label>Name</label>@Html.TextBox("Name")<br /><br />
+            <label>Age</label>@Html.TextBox("Age")<br /><br />
+            <label>Phone</label>@Html.TextBox("Phone")
+            <input type="submit" value="Login" />
+        }
+    </div>
+</body>
+</html>

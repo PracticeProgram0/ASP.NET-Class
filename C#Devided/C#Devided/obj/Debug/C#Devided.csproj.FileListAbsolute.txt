@@ -1,0 +1,7 @@
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\obj\Debug\C#Devided.csproj.AssemblyReference.cache
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\obj\Debug\C#Devided.csproj.CoreCompileInputs.cache
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\bin\Debug\C#Devided.exe.config
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\bin\Debug\C#Devided.exe
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\bin\Debug\C#Devided.pdb
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\obj\Debug\C#Devided.exe
+C:\Users\Sundaram\source\repos\C#Devided\C#Devided\obj\Debug\C#Devided.pdb

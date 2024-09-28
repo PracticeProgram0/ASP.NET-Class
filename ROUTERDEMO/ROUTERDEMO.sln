@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROUTERDEMO", "ROUTERDEMO\ROUTERDEMO.csproj", "{BBAA62FD-16C7-4877-ADBD-9DC1C21DC3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAA62FD-16C7-4877-ADBD-9DC1C21DC3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAA62FD-16C7-4877-ADBD-9DC1C21DC3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAA62FD-16C7-4877-ADBD-9DC1C21DC3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAA62FD-16C7-4877-ADBD-9DC1C21DC3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD72158-1DA4-4D5C-AF02-2771E2EA2CAB}
+	EndGlobalSection
+EndGlobal

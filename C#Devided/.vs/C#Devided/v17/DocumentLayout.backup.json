@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\avarage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\avarage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\age count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\age count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|c:\\users\\sundaram\\source\\repos\\c#devided\\c#devided\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C#Devided||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\dob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\dob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\check_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\check_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|C:\\Users\\Sundaram\\source\\repos\\C#Devided\\c#devided\\student_grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2B2BD9-34F2-4EEE-BCD0-ED3AF891E7E3}|C#Devided\\C#Devided.csproj|solutionrelative:c#devided\\student_grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C#Devided",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\C#Devided.csproj",
+              "RelativeDocumentMoniker": "C#Devided\\C#Devided.csproj",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\C#Devided.csproj",
+              "RelativeToolTip": "C#Devided\\C#Devided.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T05:20:10.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Area.cs",
+              "RelativeDocumentMoniker": "C#Devided\\Area.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Area.cs",
+              "RelativeToolTip": "C#Devided\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:39:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Check_Status.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Check_Status.cs",
+              "RelativeDocumentMoniker": "C#Devided\\Check_Status.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Check_Status.cs",
+              "RelativeToolTip": "C#Devided\\Check_Status.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:55:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student_Grading.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Student_Grading.cs",
+              "RelativeDocumentMoniker": "C#Devided\\Student_Grading.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Student_Grading.cs",
+              "RelativeToolTip": "C#Devided\\Student_Grading.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:44:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\String.cs",
+              "RelativeDocumentMoniker": "C#Devided\\String.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\String.cs",
+              "RelativeToolTip": "C#Devided\\String.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:38:19.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "age count.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\age count.cs",
+              "RelativeDocumentMoniker": "C#Devided\\age count.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\age count.cs",
+              "RelativeToolTip": "C#Devided\\age count.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:40:07.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DOB.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\DOB.cs",
+              "RelativeDocumentMoniker": "C#Devided\\DOB.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\DOB.cs",
+              "RelativeToolTip": "C#Devided\\DOB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:27:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Avarage.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Avarage.cs",
+              "RelativeDocumentMoniker": "C#Devided\\Avarage.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Avarage.cs",
+              "RelativeToolTip": "C#Devided\\Avarage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:00:20.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Program.cs",
+              "RelativeDocumentMoniker": "C#Devided\\Program.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\C#Devided\\C#Devided\\Program.cs",
+              "RelativeToolTip": "C#Devided\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:28:15.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

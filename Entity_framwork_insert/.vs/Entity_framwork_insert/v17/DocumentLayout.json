@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|c:\\users\\sundaram\\source\\repos\\entity_framwork_insert\\entity_framwork_insert\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\entity_framwork_insert\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\entity_framwork_insert\\datalayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\datalayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\entity_framwork_insert\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\entity_framwork_insert\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\entity_framwork_insert\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159FA014-17AF-4A6A-8084-DA09AA2C2FF1}|Entity_framwork_insert\\Entity_framwork_insert.csproj|solutionrelative:entity_framwork_insert\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Models\\Student.cs",
+              "RelativeToolTip": "Entity_framwork_insert\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:41:14.182Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Entity_framwork_insert\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:18:39.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Entity_framwork_insert\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T09:49:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "base.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\base.cs",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\base.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\base.cs",
+              "RelativeToolTip": "Entity_framwork_insert\\base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:32:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataLayar.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\DataLayar.cs",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\DataLayar.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\DataLayar.cs",
+              "RelativeToolTip": "Entity_framwork_insert\\DataLayar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:52:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Entity_framwork_insert\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Entity_framwork_insert\\Entity_framwork_insert\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Entity_framwork_insert\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T06:22:49.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

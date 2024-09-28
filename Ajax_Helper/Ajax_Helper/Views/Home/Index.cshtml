@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div id=" loader">
+       
+        <img src="~/Content/loding.gif" alt=" This is Img" />
+
+    </div>
+    <div>
+        @using (Ajax.BeginForm("GetData",new AjaxOptions()
+        {
+            HttpMethod="POST",
+            OnSuccess="Success",
+            OnFailure="error",
+            LoadingElementId= "loader",
+            LoadingElementDuration=200
+
+        }))
+        {
+            <input type="text" name="UserName" id="tb1" />
+            <input type="text" name="Password" id="tb2" />
+            <input type="text" name="Name" id="tb3" />
+            <input type="submit" value="Submit"/>
+
+            }
+    </div>
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        function Success(responce) {
+            console.log(responce)
+        }
+        function Error(Error) {
+            console.error(Error)
+        }
+    </script>
+</body>
+</html>

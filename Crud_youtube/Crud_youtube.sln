@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.10.35201.131
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_youtube", "Crud_youtube\Crud_youtube.csproj", "{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_youtube", "Crud_youtube\Crud_youtube.csproj", "{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839B27F4-C1E3-4A24-9A99-C7EDC4EBF786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DEE45D4F-501B-44D3-AE60-03BD2784990F}
+		SolutionGuid = {FA53EDFE-01C1-40AD-9706-8B10824F4253}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,65 @@
+﻿@model Template_Html.Models.student
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1> This is Index ...</h1>
+        <h1> This is templeted ...</h1>
+        Name :    @Html.TextBoxFor(x => x.name)        <br />
+
+        Age :     @Html.TextBoxFor(x => x.age)        <br />
+
+        City :   @Html.TextBoxFor(x => x.city)        <br />
+
+        <br />
+        <br />
+        @Html.Display("name");
+        @Html.DisplayText("name");
+
+        <br />
+        @Html.DisplayForModel();
+
+
+    </div>
+
+
+
+
+
+
+    <div>
+        Name :   @Html.TextBox("text", null, new { name = "name" })
+        Age :   @Html.TextBox("text", null, new { age = "age" })
+        City :  @Html.TextBox("text", null, new { city = "city" })
+
+    </div>
+
+
+
+
+
+
+    @Html.DropDownList("ddl", new SelectList(new string[] { "C#", "JAVA", "C", "DOTNET" }), "--Select Laguages----")
+    @{
+        SelectList list = new SelectList(new string[] { "C#", "JAVA", "C", "DOTNET" });
+    }
+    @Html.DropDownList("ddl",list , "--Select Laguages----")
+    @Html.DropDownList("ddl", new SelectList(list) , "--Select Laguages----")
+
+
+    @*@Myhelper.Button("Click Me")<br />
+    @Myhelper.Button("Login")<br />
+    @Myhelper.Button("Submit ")<br />89*@
+
+    @Html.Button("Login") <br />
+    @Html.Button("click me")<br />
+    @Html.image("https://th.bing.com/th/id/OIP.Jg35DTU8xEFi-BbUaql9CQHaEI?w=295&h=180&c=7&r=0&o=5&pid=1.7", "this is img") <br />
+  
+</body>
+</html>

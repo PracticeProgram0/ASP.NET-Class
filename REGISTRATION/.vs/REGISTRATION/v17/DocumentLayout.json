@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\registration\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|solutionrelative:registration\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|solutionrelative:registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|c:\\users\\sundaram\\source\\repos\\registration\\registration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|solutionrelative:registration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\registration\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|solutionrelative:registration\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\registration\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AD469-095F-4F7F-97B9-CE46BCAB1867}|REGISTRATION\\REGISTRATION.csproj|solutionrelative:registration\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "REGISTRATION\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Models\\Registration.cs",
+              "RelativeToolTip": "REGISTRATION\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:10:44.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "REGISTRATION\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Models\\Login.cs",
+              "RelativeToolTip": "REGISTRATION\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:10:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "REGISTRATION\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "REGISTRATION\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAI4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:07:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "REGISTRATION\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "REGISTRATION\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:07:13.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "REGISTRATION\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\REGISTRATION\\REGISTRATION\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "REGISTRATION\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:02:32.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

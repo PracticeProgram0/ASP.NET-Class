@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|c:\\users\\sundaram\\source\\repos\\mobel_built_html_helper\\mobel_built_html_helper\\views\\home\\inlinehtmlhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|solutionrelative:mobel_built_html_helper\\views\\home\\inlinehtmlhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\mobel_built_html_helper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|solutionrelative:mobel_built_html_helper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\mobel_built_html_helper\\views\\home\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|solutionrelative:mobel_built_html_helper\\views\\home\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\mobel_built_html_helper\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B43C5F-70C6-4CD7-B6A9-F6301F5D55BD}|Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER.csproj|solutionrelative:mobel_built_html_helper\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InlineHtmlHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Views\\HOME\\InlineHtmlHelper.cshtml",
+              "RelativeDocumentMoniker": "Mobel_Built_HTML_HELPER\\Views\\HOME\\InlineHtmlHelper.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Views\\HOME\\InlineHtmlHelper.cshtml",
+              "RelativeToolTip": "Mobel_Built_HTML_HELPER\\Views\\HOME\\InlineHtmlHelper.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:06:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Views\\HOME\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "Mobel_Built_HTML_HELPER\\Views\\HOME\\StudentInfo.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Views\\HOME\\StudentInfo.cshtml",
+              "RelativeToolTip": "Mobel_Built_HTML_HELPER\\Views\\HOME\\StudentInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:49:56.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Mobel_Built_HTML_HELPER\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Models\\Student.cs",
+              "RelativeToolTip": "Mobel_Built_HTML_HELPER\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:32:12.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HOMEController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Controllers\\HOMEController.cs",
+              "RelativeDocumentMoniker": "Mobel_Built_HTML_HELPER\\Controllers\\HOMEController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Mobel_Built_HTML_HELPER\\Mobel_Built_HTML_HELPER\\Controllers\\HOMEController.cs",
+              "RelativeToolTip": "Mobel_Built_HTML_HELPER\\Controllers\\HOMEController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:27:29.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

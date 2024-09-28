@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewBag.Title = "Contect";
+    Layout = "~/Views/Shared/_Partsial.cshtml";
+}
+
+<style>
+
+    /* Reset default styles */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    /* Form styling */
+    form {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        box-sizing: border-box;
+    }
+
+    button {
+        display: block;
+        margin-top: 10px;
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #3e8e41;
+        }
+
+    /* Additional styling */
+    .error-message {
+        color: red;
+        font-size: 0.8em;
+        margin-bottom: 10px;
+    }
+
+    .success-message {
+        color: green;
+        font-size: 0.8em;
+        margin-bottom: 10px;
+    }
+</style>
+<div>
+<h2>Registration Form</h2>
+<form action="submit.php" method="post">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+
+    <br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+    <br>
+
+
+    <label for="confirm-password">Confirm Password:</label>
+    <input type="password" id="confirm-password" name="confirm-password" required>
+
+    <br>
+
+    <button type="submit">Register</button>
+</form>
+
+    </div>
+

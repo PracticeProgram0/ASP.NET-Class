@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\create_entitey_framwork\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|c:\\users\\sundaram\\source\\repos\\create_entitey_framwork\\create_entitey_framwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\create_entitey_framwork\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\create_entitey_framwork\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|c:\\users\\sundaram\\source\\repos\\create_entitey_framwork\\create_entitey_framwork\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|c:\\users\\sundaram\\source\\repos\\create_entitey_framwork\\create_entitey_framwork\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|c:\\users\\sundaram\\source\\repos\\create_entitey_framwork\\create_entitey_framwork\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|c:\\users\\sundaram\\source\\repos\\create_entitey_framwork\\create_entitey_framwork\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\create_entitey_framwork\\entitey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\entitey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\create_entitey_framwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DED5DED-3E43-4737-9F7A-ED19B56E4BDC}|Create_Entitey_FramWork\\Create_Entitey_FramWork.csproj|solutionrelative:create_entitey_framwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.tt",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.tt",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.tt",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T04:49:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.edmx.diagram",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T04:49:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Designer.cs",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:49:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Context.tt",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.Context.tt",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T04:46:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.Context.cs",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.Context.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:17:02.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entitey.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Entitey.cs",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Entitey.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Entitey.cs",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Entitey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:16:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Models\\Student.cs",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:39:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T04:59:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.edmx",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-24T04:55:51.087Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Create_Entitey_FramWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Create_Entitey_FramWork\\Create_Entitey_FramWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Create_Entitey_FramWork\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:20:30.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1812557B-D362-4DBB-AD82-34008AD6927A}|Data_man_form\\Data_man_form.csproj|c:\\users\\sundaram\\source\\repos\\data_man_form\\data_man_form\\vpfrom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1812557B-D362-4DBB-AD82-34008AD6927A}|Data_man_form\\Data_man_form.csproj|solutionrelative:data_man_form\\vpfrom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1812557B-D362-4DBB-AD82-34008AD6927A}|Data_man_form\\Data_man_form.csproj|C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\data_man_form\\vpfrom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1812557B-D362-4DBB-AD82-34008AD6927A}|Data_man_form\\Data_man_form.csproj|solutionrelative:data_man_form\\vpfrom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VPfROM.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\Data_man_form\\VPfROM.aspx.cs",
+              "RelativeDocumentMoniker": "Data_man_form\\VPfROM.aspx.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\Data_man_form\\VPfROM.aspx.cs",
+              "RelativeToolTip": "Data_man_form\\VPfROM.aspx.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwHMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:11:37.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VPfROM.aspx",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\Data_man_form\\VPfROM.aspx",
+              "RelativeDocumentMoniker": "Data_man_form\\VPfROM.aspx",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Data_man_form\\Data_man_form\\VPfROM.aspx",
+              "RelativeToolTip": "Data_man_form\\VPfROM.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T05:51:37.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
