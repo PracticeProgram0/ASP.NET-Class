@@ -1,0 +1,30 @@
+﻿
+
+@model ViewToControler.Models.Registration
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RegistrationByModel</title>
+</head>
+<body>
+    <div> 
+        <h1> Succefully  Registration </h1> <br />
+        <h1> FirstName = @Model.Firstname</h1>
+        <h1>LastName =@Model.Lastname</h1>
+        <h1>Email= @Model.Email</h1>
+        <h1>Phone= =@Model.Phone</h1>
+        <h1>Address =@Model.Address</h1>
+        <h1>City =@Model.City</h1>
+        <h1>State= @Model.State</h1>
+        <h1>Zip= @Model.Zip</h1>
+        <h1>Password= @Model.Password</h1>
+        <h1>ConfirmPassword= @Model.ConfirmPassword</h1>
+    </div>
+</body>
+</html>
