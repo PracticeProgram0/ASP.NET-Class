@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h3>@ViewData["Massage1"]</h3>
+<h3>@ViewBag.Massage2</h3>
+
+<h3>@ViewData["CurrentDate"]</h3>
+<h3>@ViewBag.GamesArray2</h3>
+<ul>
+    @{ 
+        foreach (string i in (string[])ViewData["GamesArray1"])
+
+            {
+            <li>@i</li>
+            }
+    }
+
+
+</ul>
+<ul>
+    @{
+        foreach (string i in ViewBag.GamesArray2)
+
+        {
+            <li>@i</li>
+        }
+    }
+
+
+</ul>

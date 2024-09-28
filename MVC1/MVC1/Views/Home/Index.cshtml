@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+
+    <style>
+
+        #main{
+            height:100vh;
+            width:100vw;
+            display:flex;
+        }
+
+        .input{
+            width:200px;
+            height:40px;
+        }
+    </style>
+
+</head>
+<body>
+    
+ <div id="main">
+
+     <form method="post" action="@Url.Action("Main","Home")">
+         <input type="text" name="Name" required placeholder="name" class="input" />
+         <input type="text" required name="Email" placeholder="email" class="input" />
+         <input type="text" required name="Age" placeholder="age" class="input" />
+         <input type="submit" required value="submit" class="button" />
+     </form>
+
+ </div>
+</body>
+</html>

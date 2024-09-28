@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\difrrence view bag view data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F6328-0137-4664-B1C1-6D54E3FAE11B}|WebApplication2\\WebApplication2.csproj|c:\\users\\sundaram\\source\\repos\\difrrence view bag view data\\webapplication2\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D0F6328-0137-4664-B1C1-6D54E3FAE11B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F6328-0137-4664-B1C1-6D54E3FAE11B}|WebApplication2\\WebApplication2.csproj|c:\\users\\sundaram\\source\\repos\\difrrence view bag view data\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0F6328-0137-4664-B1C1-6D54E3FAE11B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\difrrence view bag view data\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\difrrence view bag view data\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vw4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:50:24.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\difrrence view bag view data\\WebApplication2\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\difrrence view bag view data\\WebApplication2\\Views\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:54:19.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

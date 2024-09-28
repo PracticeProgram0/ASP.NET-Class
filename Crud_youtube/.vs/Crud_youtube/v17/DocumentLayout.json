@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\crud_youtube\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|c:\\users\\sundaram\\onedrive\\desktop\\asp.net\\repos\\crud_youtube\\crud_youtube\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ADDE3AAF-FFC7-4516-9482-C6F5001D9CB7}|Crud_youtube\\Crud_youtube.csproj|solutionrelative:crud_youtube\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crud.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx.cs",
+              "RelativeDocumentMoniker": "Crud_youtube\\crud.aspx.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx.cs",
+              "RelativeToolTip": "Crud_youtube\\crud.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:53:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crud.aspx",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx",
+              "RelativeDocumentMoniker": "Crud_youtube\\crud.aspx",
+              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Crud_youtube\\Crud_youtube\\crud.aspx",
+              "RelativeToolTip": "Crud_youtube\\crud.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T04:33:58.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

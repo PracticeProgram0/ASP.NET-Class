@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|c:\\users\\sundaram\\source\\repos\\action_link\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Sundaram\\source\\repos\\Action_link\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Sundaram\\source\\repos\\Action_link\\webapplication2\\views\\home\\contectus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\contectus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Sundaram\\source\\repos\\Action_link\\webapplication2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A279C1F-DD35-4FB7-801B-8E491A3CCAF4}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:16:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContectUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\ContectUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\ContectUs.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\ContectUs.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\ContectUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:19:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:19:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Action_link\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:13:13.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

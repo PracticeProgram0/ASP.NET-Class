@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80079110-AC0D-423D-86DA-01EF298781B0}|Signup_form\\Signup_form.csproj|c:\\users\\sundaram\\onedrive\\desktop\\asp.net\\repos\\signup_form\\signup_form\\signup_text.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80079110-AC0D-423D-86DA-01EF298781B0}|Signup_form\\Signup_form.csproj|solutionrelative:signup_form\\signup_text.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80079110-AC0D-423D-86DA-01EF298781B0}|Signup_form\\Signup_form.csproj|C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\signup_form\\signup_text.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80079110-AC0D-423D-86DA-01EF298781B0}|Signup_form\\Signup_form.csproj|solutionrelative:signup_form\\signup_text.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup_text.aspx",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\Signup_form\\Signup_text.aspx",
+              "RelativeDocumentMoniker": "Signup_form\\Signup_text.aspx",
+              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\Signup_form\\Signup_text.aspx",
+              "RelativeToolTip": "Signup_form\\Signup_text.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T09:10:38.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup_text.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\Signup_form\\Signup_text.aspx.cs",
+              "RelativeDocumentMoniker": "Signup_form\\Signup_text.aspx.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\OneDrive\\Desktop\\Asp.net\\repos\\Signup_form\\Signup_form\\Signup_text.aspx.cs",
+              "RelativeToolTip": "Signup_form\\Signup_text.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:35:58.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

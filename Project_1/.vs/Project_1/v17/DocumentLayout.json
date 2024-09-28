@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\Project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFC383-5E1E-4D7C-AFB1-0161BC81BAD9}|Project_1\\Project_1.csproj|c:\\users\\sundaram\\source\\repos\\project_1\\project_1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B0EFC383-5E1E-4D7C-AFB1-0161BC81BAD9}|Project_1\\Project_1.csproj|solutionrelative:project_1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFC383-5E1E-4D7C-AFB1-0161BC81BAD9}|Project_1\\Project_1.csproj|C:\\Users\\Sundaram\\source\\repos\\Project_1\\project_1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFC383-5E1E-4D7C-AFB1-0161BC81BAD9}|Project_1\\Project_1.csproj|solutionrelative:project_1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Project_1\\Project_1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Project_1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Project_1\\Project_1\\WebForm1.aspx",
+              "RelativeToolTip": "Project_1\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T07:00:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\Project_1\\Project_1\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\Project_1\\Project_1\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Project_1\\WebForm1.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD0AAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:05:39.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

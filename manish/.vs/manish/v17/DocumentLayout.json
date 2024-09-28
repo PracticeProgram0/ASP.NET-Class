@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sundaram\\source\\repos\\manish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|c:\\users\\sundaram\\source\\repos\\manish\\manish\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|solutionrelative:manish\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|c:\\users\\sundaram\\source\\repos\\manish\\manish\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|solutionrelative:manish\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|c:\\users\\sundaram\\source\\repos\\manish\\manish\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|solutionrelative:manish\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|c:\\users\\sundaram\\source\\repos\\manish\\manish\\admin\\admin.1||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D9A6990-0470-4E58-85FA-83B96B5365DD}|manish\\manish.csproj|solutionrelative:manish\\admin\\admin.1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\Web.config",
+              "RelativeDocumentMoniker": "manish\\Web.config",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\Web.config*",
+              "RelativeToolTip": "manish\\Web.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T09:38:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\Web.config",
+              "RelativeDocumentMoniker": "manish\\admin\\Web.config",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\Web.config*",
+              "RelativeToolTip": "manish\\admin\\Web.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T09:37:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\home.aspx",
+              "RelativeDocumentMoniker": "manish\\admin\\home.aspx",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\home.aspx",
+              "RelativeToolTip": "manish\\admin\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T09:36:33.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.1",
+              "DocumentMoniker": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\admin.1",
+              "RelativeDocumentMoniker": "manish\\admin\\admin.1",
+              "ToolTip": "C:\\Users\\Sundaram\\source\\repos\\manish\\manish\\admin\\admin.1",
+              "RelativeToolTip": "manish\\admin\\admin.1",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T09:35:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
